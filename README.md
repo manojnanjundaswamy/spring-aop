@@ -19,7 +19,7 @@ Consists of all the basic spring aop concepts with examples.
 ## Running the examples
 - Check out the source code.
 - Open STS or Eclipse.
-- Import individual eaxamples as Java project.
+- Import individual examples as Java project.
 - Add the spring aop jars to build path which are present in spring aop libraries folder.
 - Goto Main class in examples then run as Java Application.
 - Check the output flow in console.
